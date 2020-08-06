@@ -37,8 +37,9 @@ html, body{
     line-height: 1.7;
     margin-left: 600px;
     position: relative;
-    top: -200px;
-    margin-bottom: -180px;
+    top: -100px;
+    margin-top: 50px;
+    margin-bottom: 0px;
 }
 
 @media only screen and (max-width: 600px) {
